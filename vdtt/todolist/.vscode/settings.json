@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\Admin\\Documents\\Zalo Received Files\\mysql-connector-j-9.2.0.jar"
-    ]
-}
